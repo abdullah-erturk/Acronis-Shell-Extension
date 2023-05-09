@@ -21,6 +21,7 @@ View your Acronis backup files via Windows Explorer.
 The Shell Extension application is fully compatible with the latest and backward older versions of Acronis.
 
 7zSFX Constructor v4.5 was used for the packaging process.
+
 ​
 Therefore, some antivirus applications may see them as harmful.
 ​
