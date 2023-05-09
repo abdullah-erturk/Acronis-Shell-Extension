@@ -9,7 +9,7 @@ Kabuk Uzantısı uygulaması, Acronis programının son sürümleri ve geriye d�
 
 Paketleme işlemi için 7zSFX Constructor v4.5 kullanılmıştır.
 
-Bu nedenle, bazı antivirüs uygulamaları bunları zararlı olarak görebilir.
+Bu nedenle, bazı antivirüs uygulamaları zararlı olarak görebilir.
 
 Kurulumu:
 Sadece çift tıklayın ve işlemin bitmesini bekleyin.
