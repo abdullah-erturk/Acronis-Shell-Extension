@@ -1,7 +1,8 @@
 # Acronis Shell Extension
 Acronis Shell Extension
 
-TR:
+        1- Türkçe Açıklama
+
 Acronis yedekleme dosyalarınızı Windows Gezgini aracılığıyla görüntüleyin.
 
 Kabuk Uzantısı uygulaması, Acronis programının son sürümleri ve geriye dönük eski sürümleriyle tam uyumludur.
@@ -9,7 +10,8 @@ Kabuk Uzantısı uygulaması, Acronis programının son sürümleri ve geriye d�
 Kurulumu:
 Sadece çift tıklayın ve işlemin bitmesini bekleyin.
 
-ENG:
+        2- English Explanation
+
 View your Acronis backup files via Windows Explorer.
 
 The Shell Extension application is fully compatible with the latest and backward older versions of Acronis.
