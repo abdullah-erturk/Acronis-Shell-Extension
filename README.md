@@ -22,9 +22,8 @@ The Shell Extension application is fully compatible with the latest and backward
 
 7zSFX Constructor v4.5 was used for the packaging process.
 
-​
 Therefore, some antivirus applications may see them as harmful.
-​
+
 Setup:
 Just double click and wait for the process to finish.
 
