@@ -1,7 +1,7 @@
 # Acronis Shell Extension
 Acronis Shell Extension
 
-        1- Türkçe Açıklama
+         Türkçe Açıklama
 
 Acronis yedekleme dosyalarınızı Windows Gezgini aracılığıyla görüntüleyin.
 
@@ -18,7 +18,7 @@ Therefore, some antivirus applications may see them as harmful.
 Kurulumu:
 Sadece çift tıklayın ve işlemin bitmesini bekleyin.
 
-        2- English Explanation
+         English Explanation
 
 View your Acronis backup files via Windows Explorer.
 
