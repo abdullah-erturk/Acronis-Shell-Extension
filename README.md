@@ -27,7 +27,7 @@ Setup:
 Just double click and wait for the process to finish.
 
 Virustotal:
-https://www.virustotal.com/gui/file/caa3316317a0f144f99b60fc6a28ab2e9171c8b2bf7aca92e95b038866e1b020?nocache=1
+VirusTotal - File - 5b9b72df618d811d5692fb8d0f99aec18f1d872a89b120fc7fc4645b6b918a44
 
 ![sample](https://github.com/abdullah-erturk/Acronis-Shell-Extension/blob/main/1.jpg)
 
